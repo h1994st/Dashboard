@@ -1,0 +1,19 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Hu <h1994st@gmail.com> (http://h1994st.com)",
+  "license": "MIT",
+  "dependencies": {
+    "etherscan-api": "^8.1.2",
+    "web3": "^1.0.0-beta.34"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.1.0"
+  }
+}

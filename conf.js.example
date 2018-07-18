@@ -1,0 +1,12 @@
+/**
+ *
+ * @authors Shengtuo Hu (h1994st@gmail.com)
+ * @date    2018-07-17 23:25:38
+ * @version 1.0
+ */
+
+const conf = {
+    'apiToken': ''
+};
+
+module.exports = conf;
